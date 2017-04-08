@@ -1,0 +1,5 @@
+Este archivo incluye las siguientes funciones:
+
+returnGradedValues(): 
+    - busca en la primera fila de una hoja de cálculo celdas que comiencen por "PTOS EST"
+    - devuelve un objeto con el número del alumno, los estándares evaluados y la calificación obtenida en cada estándar
